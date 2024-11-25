@@ -1,0 +1,26 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "baseName": "LocalApplication",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": null,
+    "clientPackageManager": null,
+    "clientTheme": null,
+    "creationTimestamp": 1732551250778,
+    "databaseType": "sql",
+    "devServerPort": 4200,
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "YTA2YTVhNTQ2MDcwYTVlMzdlOTBmYTBmYTE3MTZmMzFlNTgxZjk5NmY5YzcxNmIwOTRkZGU5ZjFjMzdlNjRmNmVhZTIwYWYwYjZjNTg3OWQ4MDBmYTRkNjU3ODliYWM1NjA1ZTYzNzkzNjNlYzNhODQ5ZDFiYzFhYjU1M2RlZmY=",
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": null,
+    "testFrameworks": null,
+    "websocket": null
+  }
+}
